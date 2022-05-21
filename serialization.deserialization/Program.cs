@@ -100,7 +100,7 @@ namespace serialization.deserilization
 
 
 
-                //string rslt1 = bsObj2s["id"].Value<string>();
+                string rslt1 = bsObj2s["id"].Value<string>();
                 //string rslt2 = bsObj2s["logicalId"].Value<string>();
                 //string rslt3 = bsObj2s["displayName"].Value<string>();
                 ////     string rslt4   = bsObj2s["description"].Value<string>();
