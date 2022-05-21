@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KjjgJyCyn1yZT8n7oXCAzX3w9d/zlClRVXu7oz60T3TI4B8AR29NLF29RG9SqnunVQKGb0KcKn0f+3s+aI9OXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Work-Station\\Learning\\SQL-Script Executing\\sql.script.execute\\serialization.deserialization\\serialization.deserialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vjadhav\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\vjadhav\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\vjadhav\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

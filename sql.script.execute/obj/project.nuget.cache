@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZ8G1m7g9qXk+Oq/HBUO869jujn9WTspYUPTkdok7T9/A64YaLa7pdw6z1H5IOiAUffeRLByL1BrLPScOON3sw==",
+  "success": true,
+  "projectFilePath": "C:\\Work-Station\\Learning\\SQL-Script Executing\\sql.script.execute\\sql.script.execute\\sql.script.execute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vjadhav\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\vjadhav\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
